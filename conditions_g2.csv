@@ -1,0 +1,10 @@
+﻿story_id,version,story_text,question
+S01,long_irrelevant,"Ana and Tom are in the living room. There is a green sofa by the wall, and a clock above the door. Ana says, “It’s freezing in here.”",What does Ana really mean when she says this?
+S02,long_irrelevant,"Mira and Dev are at home on Saturday evening. Their flat has a blue front door, and a neighbour’s dog is barking outside. Mira says to Dev, “I’m starving.”",What does Mira really mean when she says this?
+S03,long_irrelevant,"Sam and Priya are in their flat on a Sunday afternoon. The flat is on the third floor, and a cat is asleep on the windowsill. Priya says to Sam, “It’s so loud in here.”",What does Priya really mean when she says this?
+S04,short,"Nina and Omar are at the cinema, and the film is about to start. Nina says to Omar, “I can’t see anything.”",What does Nina really mean when she says this?
+S05,short,"Leela is having dinner at her friend Raj’s house. Leela says to Raj, “It’s getting late.”",What does Leela really mean when she says this?
+S06,short,"Kiran and Sunita are standing in a queue at a café. Kiran says to Sunita, “I forgot my wallet.”",What does Kiran really mean when he says this?
+S07,long_relevant,"Meera and Lou are waiting at the airport. Meera needs to call a taxi soon, and she knows Lou has a charger in his bag. Meera says to Lou, “My phone is at two percent.”",What does Meera really mean when she says this?
+S08,long_relevant,"Zoe and Ben are walking to a party. Zoe left her coat at home, and the evening is getting cold. Zoe says to Ben, “That’s a nice jacket.”",What does Zoe really mean when she says this?
+S09,long_relevant,"Chloe is talking to her teacher, Mr Rao, at the end of the lesson. The homework is due today, and Chloe was ill for three days this week. Chloe says, “I haven’t finished my homework.”",What does Chloe really mean when she says this?

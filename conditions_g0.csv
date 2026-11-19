@@ -1,0 +1,10 @@
+﻿story_id,version,story_text,question
+S01,short,"Ana and Tom are in the living room. Ana says, “It’s freezing in here.”",What does Ana really mean when she says this?
+S02,short,"Mira and Dev are at home on Saturday evening. Mira says to Dev, “I’m starving.”",What does Mira really mean when she says this?
+S03,short,"Sam and Priya are in their flat on a Sunday afternoon. Priya says to Sam, “It’s so loud in here.”",What does Priya really mean when she says this?
+S04,long_relevant,"Nina and Omar are at the cinema, and the film is about to start. Omar is sitting directly in front of her and wearing a tall hat. Nina says to Omar, “I can’t see anything.”",What does Nina really mean when she says this?
+S05,long_relevant,"Leela is having dinner at her friend Raj’s house. She has an early train tomorrow, and she has already put on her coat. Leela says to Raj, “It’s getting late.”",What does Leela really mean when she says this?
+S06,long_relevant,"Kiran and Sunita are standing in a queue at a café. Kiran is next to pay, and Sunita is already holding her card. Kiran says to Sunita, “I forgot my wallet.”",What does Kiran really mean when he says this?
+S07,long_irrelevant,"Meera and Lou are waiting at the airport. The terminal has a big screen with flight times, and a coffee stand nearby. Meera says to Lou, “My phone is at two percent.”",What does Meera really mean when she says this?
+S08,long_irrelevant,"Zoe and Ben are walking to a party. The street has tall trees, and a bus goes past with an advert on it. Zoe says to Ben, “That’s a nice jacket.”",What does Zoe really mean when she says this?
+S09,long_irrelevant,"Chloe is talking to her teacher, Mr Rao, at the end of the lesson. The classroom has a big map on the wall, and a plant sits on the desk. Chloe says, “I haven’t finished my homework.”",What does Chloe really mean when she says this?
